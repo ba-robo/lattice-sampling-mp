@@ -1,6 +1,8 @@
 
 # Effective Sampling for Robot Motion Planning Through the Lens of Lattices
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ba-robo/lattice-sampling-mp)
+
 This repository contains the code used to run the experiments for the paper. It was accepted to RSS 2025, and this version contains the sum of work that this paper included.
 
 * [RSS 2025](https://roboticsconference.org/program/papers/48/).
@@ -113,4 +115,3 @@ The main point of concern needs to be in the `std::vector<TestData> getTests()` 
 
     // lattice_tests.push_back(UniqueMaze3);
 ```
-
